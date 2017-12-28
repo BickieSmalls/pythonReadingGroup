@@ -8,4 +8,4 @@ There are several goals here:
 * Learn collaboration and version control with git  
 
 Last update:  
-**2017-12-27** 
+*2017-12-27* 
